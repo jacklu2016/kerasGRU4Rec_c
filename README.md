@@ -3,6 +3,9 @@
 Just rewrite and add some comment for kerasGRU4Rec, The Original github repository is [kerasGRU4Rec](https://github.com/pcerdam/KerasGRU4Rec)
 
 ---
+# Run model
+run model.py
+---
 # Requirements
 The code has been tested with Python 3.6.8, using the following versions of the required dependencies:<br>
 
