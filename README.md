@@ -4,7 +4,8 @@ Just rewrite and add some comment for kerasGRU4Rec, The Original github reposito
 
 ---
 # Run model
-run model.py
+Dataset:pls download dataset [ml-25m](http://grouplens.org/datasets/),download and unzip it to folder preprocess/data<br>
+then run model.py<br>
 ---
 # Requirements
 The code has been tested with Python 3.6.8, using the following versions of the required dependencies:<br>
